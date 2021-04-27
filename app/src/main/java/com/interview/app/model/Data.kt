@@ -8,6 +8,6 @@ data class Food(
     @SerializedName(value = "image")
     val image: String?,
     @SerializedName(value = "desc")
-    val desc: String?,
+    val desc: String?
 
 )
