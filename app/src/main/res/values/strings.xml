@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FoodMenu</string>
+    <string name="error_text">Something Went Wrong</string>
 </resources>
